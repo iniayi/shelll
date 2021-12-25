@@ -4,7 +4,7 @@ require __DIR__ . '/vendor/autoload.php';
 use Curl\Curl;
 
 ## EDIT REFFERAL CODE DISINI BOS ##
-$refferalCode = '';
+$refferalCode = '1bhxs30aj';
 ## EDIT REFFERAL CODE DISINI BOS ##
 
 class Shell
